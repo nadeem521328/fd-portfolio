@@ -15,7 +15,7 @@ function Header() {
           <a className="text-on-surface-variant font-body-md text-body-md hover:text-primary transition-colors duration-200" href="#about">About</a>
           <a className="text-on-surface-variant font-body-md text-body-md hover:text-primary transition-colors duration-200" href="#contact">Contact</a>
         </nav>
-        <a className="hidden md:block bg-primary text-on-primary font-label-md text-label-md px-6 py-2 rounded-DEFAULT hover:scale-95 transition-transform flex items-center justify-center" href={resumeLink} download={resumeName}>
+        <a className="hidden md:block bg-primary text-on-primary font-label-md text-label-md px-6 py-2 rounded-DEFAULT hover:scale-95 transition-transform flex items-center justify-center" href={resumeLink} target="_blank" rel="noopener noreferrer">
           Resume
         </a>
       </div>
