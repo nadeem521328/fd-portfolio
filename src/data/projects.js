@@ -18,15 +18,5 @@ export const projects = [
     githubUrl: "https://github.com/nadeem521328/restaurant-ordering-app",
     liveUrl: "https://bismillah-palaav-center.vercel.app/",
     isPlaceholder: false
-  },
-  {
-    id: 3,
-    title: "Cloud Infrastructure Dashboard",
-    description: "An interactive visualization tool for monitoring serverless resources and cost tracking.",
-    tags: ["React", "TypeScript", "AWS", "GraphQL"],
-    imageUrl: "", // Left blank or could use a placeholder
-    githubUrl: "#",
-    liveUrl: "#",
-    isPlaceholder: true
   }
 ];
