@@ -15,7 +15,7 @@ function ProjectCard({ title, description, imageUrl, tags, githubUrl, liveUrl, i
         ) : (
           <img 
             alt={`${title} UI`} 
-            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
+            className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" 
             src={imageUrl} 
           />
         )}
