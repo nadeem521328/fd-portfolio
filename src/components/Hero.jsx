@@ -10,7 +10,7 @@ function Hero() {
     <section className="min-h-[85vh] flex flex-col justify-center items-center relative overflow-hidden px-gutter gradient-mesh">
       <div className="max-w-container-max w-full mx-auto relative z-10 flex flex-col items-start pt-12 md:pt-24">
         <h1 className="font-display text-display md:text-[80px] leading-[1.05] tracking-[-0.04em] text-on-surface mb-6 max-w-4xl">
-          Full Stack<br />Developer
+          Software<br />Developer
         </h1>
         <p className="font-body-lg text-body-lg text-on-surface-variant max-w-2xl mb-8">
           Building scalable web applications with modern frontend and backend technologies. Focused on high-performance architecture and precise UI engineering.
