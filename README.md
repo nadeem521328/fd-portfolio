@@ -1,7 +1,7 @@
 # Nadeem Shaik - Portfolio Project
 
 ## Purpose
-This project is a personal developer portfolio built to display my software engineering projects, tech stack competencies, and backend integration skills. It serves as a central hub for recruiters to review my code repository links, live applications, and download my current resume.
+This project is a personal portfolio built to display my software engineering projects, tech stack competencies, and backend integration skills. It serves as a central hub for recruiters to review my code repository links, live applications, and download my current resume.
 
 ## Features
 - **Modular Interface**: Built using React with clean component separation (Header, Hero, About, Projects, TechStack, Footer) for easy maintenance.
